@@ -186,24 +186,6 @@ Se você tem um projeto interessante ou quer trocar conhecimentos, me chame!
 
 ---
 
-## 📈 Evolução Técnica
-2023 ─────────────────────────────────────────► 2024
-│ │
-│ HTML/CSS │
-│ ▼ │
-│ JavaScript básico │
-│ ▼ │
-│ Consumo de APIs │
-│ ▼ │
-│ Projetos completos │
-│ ▼ │
-│ 🚀 React (em andamento) │
-│ │
-
-text
-
----
-
 ## ✨ Inspiração
 
 *"A jornada de mil projetos começa com um único commit."*
