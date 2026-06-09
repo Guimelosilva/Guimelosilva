@@ -24,7 +24,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor frontend em constante evolução, apaixonado por criar interfaces elegantes e funcionais. Minha jornada começou com o curso **CC50 de Harvard no Brasil**, que me deu uma base sólida em ciência da computação. Desde então, venho aplicando esse conhecimento em projetos práticos e me especializando em desenvolvimento web.
+Sou um desenvolvedor frontend em constante evolução, apaixonado por criar interfaces elegantes e funcionais. Minha jornada começou com o curso **CC50 de Harvard no Brasil**, que me deu uma base sólida em ciência da computação. Desde então, venho aplicando esse conhecimento em projetos práticos e me especializando em desenvolvimento web. Atualemte sou estudante de **Banco de Dados** na faculdade UNINTER e trabalho como **Tecnico de Suporte I**
 
 - 🌱 **Atualmente aprofundando:** JavaScript avançado, integração de APIs e otimização de performance
 - 🎯 **Foco principal:** Frontend com ênfase em UI/UX e animações
