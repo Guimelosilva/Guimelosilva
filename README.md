@@ -252,12 +252,6 @@ Sou um desenvolvedor frontend em constante evolução, apaixonado por criar inte
 
 ---
 
-## 💬 Frase que me motiva
-
-> *"Cada erro é uma lição disfarçada. A persistência transforma dificuldade em conquista."*
-
----
-
 **📅 Última atualização:** Junho de 2026
 
 ---
