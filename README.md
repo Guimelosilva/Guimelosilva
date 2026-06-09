@@ -47,13 +47,6 @@ Sou um desenvolvedor frontend em constante evolução, apaixonado por criar inte
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=Guimelosilva&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimelosilva&layout=compact&theme=dracula)
-
----
-
 ## 📈 Minha Jornada de Aprendizado (Ordem Cronológica)
 
 ```
